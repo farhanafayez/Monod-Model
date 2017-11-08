@@ -13,6 +13,7 @@ This model was transformed into a model that is linear with respect to some new 
 
 1. Make sure you have R installed
 2. Open the file in R studio
+3. Run the script
 
 
 
